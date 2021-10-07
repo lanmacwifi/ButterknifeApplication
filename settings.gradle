@@ -1,0 +1,7 @@
+include ':butterknife-compiler'
+include ':butterknife-annotations'
+include ':buterknife'
+include ':app'
+rootProject.name = "ButterknifeApplication"
+println '===================='
+println rootProject.name
